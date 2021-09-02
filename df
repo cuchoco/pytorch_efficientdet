@@ -1,0 +1,89 @@
+[33mcommit 15403b5371a64defb2a7c74e162c6e880a7f462c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Tue Dec 22 16:56:37 2020 +0800
+
+    update tutorial birdview_vehicles
+
+[33mcommit ed3f0bf4b26d22d0c1f15a45de7b3440bbe24f3f[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Sun Dec 20 17:01:15 2020 +0800
+
+    upload new tutorial on birdview_vehicle dataset
+
+[33mcommit 05ef6d0b8362aa2841dbebf0b79925f856dfae16[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Fri Dec 18 13:00:46 2020 +0800
+
+    Update readme.md
+
+[33mcommit c5c7eaa0d2a64db7016a6e5328abc4cb78cbd526[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Fri Dec 18 13:00:32 2020 +0800
+
+    Update readme.md
+
+[33mcommit afd4ef139d657b60349e5ae8b50361d465e9f24e[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Fri Dec 18 12:58:03 2020 +0800
+
+    upload project file for custom dataset logo
+
+[33mcommit 2b529a5d57626dbee47b727836c6a7c2687e0ee3[m[33m ([m[1;33mtag: custom_datasets[m[33m)[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Fri Dec 18 11:47:51 2020 +0800
+
+    upload new tutorial on logo dataset
+
+[33mcommit 7c83263ed004e1897caa57b915b98b9feb82cca2[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Fri Dec 18 11:45:46 2020 +0800
+
+    upload new tutorial on logo dataset
+
+[33mcommit fd0fa0f7658b3580b7681144ac5992c3f5640a24[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Wed Dec 16 22:15:52 2020 +0800
+
+    having troubles training? I'll train it for you.
+
+[33mcommit 7202abc83c92babc6fb963652dca35dbd914f06f[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Wed Dec 16 22:12:32 2020 +0800
+
+    having troubles training? I'll train it for you.
+
+[33mcommit 7c3e0660d4643b13db19b988caedeca4a172be68[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Wed Dec 16 22:10:01 2020 +0800
+
+    Update readme.md
+
+[33mcommit 81bd902e1d3d222831bc94e71560497e8a75482a[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Wed Dec 16 21:33:58 2020 +0800
+
+    having troubles training? I'll train it for you.
+
+[33mcommit 1b0fdfe65e366733639478766f2660ea853d13f0[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Tue Dec 1 11:43:22 2020 +0800
+
+    fix bgr order in display function
+
+[33mcommit 47f6bf3ccc118fbc2057112c507f419ff3e6e275[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Tue Dec 1 11:39:57 2020 +0800
+
+    fix bgr order in display function
+
+[33mcommit 8f45451c81673fecf51af39537c319b7f9d20521[m
+Author: zylo117 <zylo117@users.noreply.github.com>
+Date:   Thu Oct 29 10:00:39 2020 +0800
+
+    Update readme.md
+
+[33mcommit 49805438d7460b3a94c0f65154ae797f7d66f667[m
+Author: zylo117 <zylo117@hotmail.com>
+Date:   Thu Oct 22 11:33:15 2020 +0800
+
+    fix coco_eval for not using specified mean and std
