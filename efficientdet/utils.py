@@ -62,7 +62,7 @@ class Anchors(nn.Module):
         self.anchor_scale = anchor_scale
 
         if pyramid_levels is None:
-            self.pyramid_levels = [3, 4, 5, 6, 7]
+            self.pyramid_levels = [2, 3, 4, 5]
         else:
             self.pyramid_levels = pyramid_levels
 
